@@ -1,1 +1,1 @@
-include: [/static]
+include: [/css, /js, /css]
